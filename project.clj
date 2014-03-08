@@ -28,12 +28,13 @@
           :static-fns true
           :optimizations :whitespace
           :pretty-print true }}
-      :examples {
-        :source-paths ["src" "examples"]
-        :incremental? true
-        :compiler {
-          :output-to "target/example.js"
-          :source-map "target/example.map"
-          :static-fns true
-          ;:optimizations :advanced
-          :pretty-print true }}}})
+      ;:examples {
+      ;  :source-paths ["src" "examples"]
+      ;  :incremental? true
+      ;  :compiler {
+      ;    :output-to "target/example.js"
+      ;    :source-map "target/example.map"
+      ;    :static-fns true
+      ;    ;:optimizations :advanced
+      ;    :pretty-print true }}
+             }})

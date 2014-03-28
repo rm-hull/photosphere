@@ -2,6 +2,19 @@
 
 A ClojureScript library for reading and displaying 360° photospheres.
 
+## See Also
+
+Although not generated with this library, the following links are the 
+pre-cursor to this implementation, and use the assets in this project.
+
+* [Brimham Rocks, North Yorkshire, UK](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Brimham Rocks, North Yorkshire, UK) and [another](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Brimham Rocks 2, North Yorkshire, UK) 
+* [Happisburgh Lighthouse, Norfolk, UK](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Happisburgh Lighthouse, Norfolk, UK)
+* [Harlow Carr, Harrogate, UK](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Harlow Carr, Harrogate, UK)
+* [Knaresborough Castle, North Yorkshire, UK](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Knaresborough Castle, North Yorkshire, UK)
+* [Prainha - beach, Algarve, Portugal](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Prainha - beach, Algarve, Portugal)
+* [Prainha - clifftop, Algarve, Portugal](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Prainha - clifftop, Algarve, Portugal)
+* [Wells-next-the-Sea, Norfolk, UK](http://programming-enchiladas.destructuring-bind.org/rm-hull/9842972?texture=Wells-next-the-Sea, Norfolk, UK)
+
 ## References
 
 ## The MIT License (MIT)
